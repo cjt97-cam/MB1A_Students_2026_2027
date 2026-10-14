@@ -1,0 +1,36 @@
+---
+title: "Prac 1 exercises"
+author: "CJ Tan"
+---
+
+```{r}
+round(3.14159)
+```
+```{r}
+print(rep(5,7))
+print(rep(x=5,times=7))
+```
+```{r}
+my_college<-"Sidney Sussex"
+my_age<-21
+i_am_tired<-FALSE
+
+print(class(my_college))
+print(class(my_age))
+print(class(i_am_tired))
+```
+```{r}
+cell_id_A<-"CX1"
+cell_id_B<-"CX2"
+
+treated_A<-TRUE
+treated_B<-FALSE
+
+num_cells_before_A<-5415
+num_cells_before_B<-8123
+  
+num_cells_after_A<-1432
+num_cells_after_B<-7543
+```
+
+
